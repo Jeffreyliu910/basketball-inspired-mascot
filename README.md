@@ -13,11 +13,18 @@ cp pets/mamba24/spritesheet.webp ~/.codex/pets/mamba24/spritesheet.webp
 ``` 
 
 
-Then restart Codex or reload pets.
+## Then restart Codex or reload pets.
+
 Files
+
 pets/mamba24/pet.json
+
 pets/mamba24/spritesheet.webp
+
 QA
+
 qa/contact-sheet-extended.png
+
 qa/look-directions.png
+
 qa/run-summary.json
