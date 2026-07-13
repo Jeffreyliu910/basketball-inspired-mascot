@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24",
+  "spritesheet": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/final/spritesheet-extended.webp",
+  "validation": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/final/validation-extended.json",
+  "chroma_despill": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/look-directions.png",
+  "direction_semantics": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/blind-review-resolution.json",
+  "continuity": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/look-continuity.json",
+  "review": "/Users/jeffreyliu/Downloads/Skillhub/hatch_runs/mamba24/qa/review.json",
+  "package": "/Users/jeffreyliu/.codex/pets/mamba24"
+}
