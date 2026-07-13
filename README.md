@@ -10,9 +10,10 @@ Clone this repo, then run:
 mkdir -p ~/.codex/pets/mamba24
 cp pets/mamba24/pet.json ~/.codex/pets/mamba24/pet.json
 cp pets/mamba24/spritesheet.webp ~/.codex/pets/mamba24/spritesheet.webp
+``` 
 
-```bash
-## Then restart Codex or reload pets.
+
+Then restart Codex or reload pets.
 Files
 pets/mamba24/pet.json
 pets/mamba24/spritesheet.webp
